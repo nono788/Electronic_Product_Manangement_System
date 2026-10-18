@@ -28,3 +28,6 @@ Tech Stack
 * HTML5
 * CSS3
 * JavaScript (ES6+)
+
+  Project live https://nono788.github.io/Electronic_Product_Manangement_System/
+  
