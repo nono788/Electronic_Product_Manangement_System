@@ -130,6 +130,7 @@ function updateProduct(i) {
   mood = "update";
   tmp = i;
   showData();
+  submit.innerHTML = "create";
 }
 
 //search
